@@ -16,4 +16,4 @@ echo 'complete -F __start_kubectl k' >>~/.bashrc
 ```
 # Reload your shell
 
-![](../images/test2.gif)
+[](../images/test1.gif)
