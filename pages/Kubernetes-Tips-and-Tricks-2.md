@@ -16,6 +16,4 @@ echo 'complete -F __start_kubectl k' >>~/.bashrc
 ```
 # Reload your shell
 
-[![](../images/gif.gif)](https://www.youtube.com/watch?v=HP5rTWWNpwY)
-
-[![blah](https://github.com/ewat3ch/t3ch-tips-tricks/blob/main/images/gif.gif)](https://www.youtube.com/watch?v=HP5rTWWNpwY)
+[![](../images/test1.gif)](https://www.youtube.com/watch?v=HP5rTWWNpwY)
