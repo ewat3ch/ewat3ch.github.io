@@ -46,4 +46,4 @@ read any of the other things, such as
 
 - [k8s](pages/Kubernetes-Tips-and-Tricks-2.md)
 
-![show-image](https://github.com/ewat3ch/t3ch-tips-tricks/blob/main/images/test2.gif)
+![show-image](https://github.com/ewat3ch/t3ch-tips-tricks/blob/main/images/test1.gif)
