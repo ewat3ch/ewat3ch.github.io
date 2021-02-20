@@ -15,4 +15,5 @@ echo 'alias k=kubectl' >>~/.bashrc
 echo 'complete -F __start_kubectl k' >>~/.bashrc
 ```
 # Reload your shell
-![Testing](../images/test2.gif)
+
+![](../images/test2.gif)
