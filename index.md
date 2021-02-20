@@ -44,7 +44,7 @@ explains the basic structure of these sites. Then read
 read any of the other things, such as
 [how to test your site locally](pages/local_test.html).
 
-- [k8s](pages/Kubernetes-Tips-and-Tricks.md)
+- [k8s](pages/Kubernetes-Tips-and-Tricks-2.md)
 
 
 ---
