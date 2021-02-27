@@ -1,4 +1,4 @@
-# Iterators
+Iterators
 ### iter(<lists|strings|dictionaries|file connections ..>)
 ```sh
  x=iter(sound)
