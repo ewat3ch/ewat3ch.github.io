@@ -45,5 +45,5 @@ read any of the other things, such as
 [how to test your site locally](pages/local_test.html).
 
 - [k8s](pages/Kubernetes-Tips-and-Tricks-2.md)
-- [python-dt-sc](pages/python-tools.md)
+- [python-dt-sc](pages/python-dt-sc-tips-tricks.md)
 
